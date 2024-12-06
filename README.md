@@ -18,6 +18,10 @@
 
 *	YOLOv8 + BoT-SORT + TCNTE model
 *	Platform: NVIDIA Jetson Orin NX
+  
+<video width="600" controls>
+  <source src="fall_detection/example.mp4" type="video/mp4">
+</video>
 
 ## Reference(preprint) 
 Yu, Xiaoqun and Wang, Chenfeng and Wu, Wenyu and Xiong, Shuping, An Efficient Skeleton-Based Fall Detection Algorithm Using Temporal Convolutional Networks with Transformer Encoder. Available at SSRN: https://ssrn.com/abstract=4750350 or http://dx.doi.org/10.2139/ssrn.4750350
