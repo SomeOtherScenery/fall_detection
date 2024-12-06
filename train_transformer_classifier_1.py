@@ -84,7 +84,7 @@ def main():
     train_y_path = r'E:\Users\Aa\Desktop\UP-Fall-Dataset\YOLOV8\pose_train_test\17_subjects\split_1\train_y_1'
     test_x_path = r'E:\Users\Aa\Desktop\UP-Fall-Dataset\YOLOV8\pose_train_test\17_subjects\split_1\test_x_1'
     test_y_path = r'E:\Users\Aa\Desktop\UP-Fall-Dataset\YOLOV8\pose_train_test\17_subjects\split_1\test_y_1'
-    BATCH_SIZE = 32
+    BATCH_SIZE = 64
     EPOCHS = 100
     best_acc = 0
     best_epoch = 0
